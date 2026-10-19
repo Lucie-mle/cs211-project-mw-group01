@@ -6,7 +6,7 @@
 
 ## Members
 - [Member A Lucie] — GitHub: [lucie_mle]
-- [Member B An] — GitHub: [username]
+- [Member B An] — GitHub: [tamantran]
 
 ## Project overview
 This project contains two separate C++17 console programs.
