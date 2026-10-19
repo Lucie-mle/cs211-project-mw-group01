@@ -5,8 +5,8 @@
 **Group:** Group 01
 
 ## Members
-- [Member A name] — GitHub: [username]
-- [Member B name] — GitHub: [username]
+- [Member A Lucie] — GitHub: [lucie_mle]
+- [Member B An] — GitHub: [username]
 
 ## Project overview
 This project contains two separate C++17 console programs.
