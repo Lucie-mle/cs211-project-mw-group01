@@ -4,8 +4,8 @@
 using namespace std;
 
 void move_left(int board[][5], int numrows = 5)
-{
-	 for (int r = 0; r < numrows; r++)
+
+    for (int r = 0; r < numrows; r++)
     {
         int temp[5] = {0};
         int index = 0;
@@ -195,4 +195,3 @@ void insert_random(int board[][5], int numrows = 5)
 
 	}
 }
-
