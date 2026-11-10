@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-void move_left(int board[][5], int numrows = 5)
+void move_left(int board[][5], int numrows = 5) {
 
     for (int r = 0; r < numrows; r++)
     {
@@ -73,7 +73,7 @@ void move_right(int board[][5], int numrows = 5)
 
 void move_up(int board[][5], int numrows = 5)
 {
-	for (int c = 0; c < 5; c++)
+	 for (int c = 0; c < 5; c++)
     {
         int temp[5] = {0};
         int index = 0;
@@ -107,7 +107,7 @@ void move_up(int board[][5], int numrows = 5)
 
 void move_down(int board[][5], int numrows = 5)
 {
-	 for (int c = 0; c < 5; c++)
+	for (int c = 0; c < 5; c++)
     {
         int temp[5] = {0};
         int index = 4;
